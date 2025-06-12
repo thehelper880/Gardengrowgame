@@ -1,1 +1,0 @@
-Place 3D object textures here (e.g. bark, dirt).
